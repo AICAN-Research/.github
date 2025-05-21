@@ -2,7 +2,7 @@
 
 The AICAN research group studies the use of artificial intelligence in the interpre​​​​​​​tation of histopathological slides from cancer.
 
-AICAN is a cross disciplinary research group involving NTNU, St. Olavs hospital, Levanger hospital and SINTEF. We use artificial intelligence in the interpretation of histopathological slides from cancer.
+AICAN is a cross disciplinary research group involving NTNU, St. Olavs hospital, Levanger hospital, and SINTEF. We use artificial intelligence in the interpretation of histopathological slides from cancer.
 
 Our goal is to establish methods able to predict biological properties and prognosis in cancer. Initially we have been working on breast cancer, but we are now expanding our research to also include lung cancer.
 
